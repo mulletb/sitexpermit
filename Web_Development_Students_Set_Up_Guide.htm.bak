@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles/webdev.css">
+    <meta charset="UTF-8">
+    <title>Web Development: set up guide</title>
+  </head>
+  <body><div>
+   <h1>Web development beginning student logging in to everything guide</h1>
+   </div><br><div>
+    <h2>Forward</h2>
+	 <p>When I started this course: I felt overwhelmed with the amount of accounts you needed to be logged into, and, the new student email that was forced upon me. "What is my new email?" "Why can't i use my regular email" "What is my password?" "Why doesn't anything work?!"
+                    <br><br>                  
+In reality: its actually fairly easy, and, it seems rather straightforward and basic once your already started. The problem was: it seemed difficult in the initial "chaos" of getting used to a new situation.<br><br>
+ Hopefully: a plain step by step guide of the procedure from the basic beginning might help someone have a less stressful start.	</div> 
+           <br><div>
+    <h2>Your Student ID and the clock in</h2>
+	       <br>
+		   <h3>Knowing/acquiring your student ID</h3>
+<br>		   
+		   <p>Knowing your student ID is the first thing, so: start with that.
+		  The course instructor will probably have the proper resources to get your student ID if you don't have it or know it already. <br></p>
+		  
+		  <p id="note">NOTE: if you came here straight from a Lee County high school, your old student ID and student email may work for some things, but, you should/will be issued a new ID number and subsequent email, and, that is the one you will need to be using.
+		  </p>
+		  </div>
+		  <br>
+		  <h3> Clocking In  </h3>
+		  
+		  <p> your clock in will simply be your student ID number. The default password should be the last four digits.   		  
+		   <br>
+		   </div><br>
+	<h2>Your Student Email</h2>
+	  <p>If you are here at your first day of web development, the school already made a separate  email account in your name in your absentia. <br>   <br>
+	  You log in at <a href="https://mail.leeschools.net">https://mail.leeschools.net<a> , and your email is based on your student ID number. <br> The format uses your ID number as "f12345678@students.leeschools.net"  The default password should be your full 8 digit student ID.  
+	  </p>
+	 <br>
+	  <figure>
+       <img src="images\outlook_sample.fw.png">
+        <figcaption>
+		If your student ID happened to be "12345678",your email sign in would look like this.
+		</figcaption>
+       </figure>
+<br>
+	 <p id="note">  NOTE: Most of the sites you will need to log into for this course will need to use your student email to work properly.</p><br>
+	  
+	 <h2>
+	 A School Room In A Cloud!?? What Manner Of Witchcraft Is This!!? ( Google classroom )
+	 <h2><br>
+	 
+	 <p id="note">NOTE: again: its not a good idea to use your old high school email, which may be tempting since: there may be an issue/delay that causes your login not to work. Ask your instructor about these issues and try to maintain patience.
+		  </p><br>
+	 <figure>
+	 <img src= "images/class_12_small.fw.png">
+	 <figcaption>
+	 These images demonstrate what your sign in should look like, and, the correct mail and default password formatting as it applies to your student ID. 
+	 </figcaption>
+	 </figure>
+	
+	 <br>
+	 
+	 <figure>
+	  <img src="images/class_3.fw.png">
+	 
+	
+	 <img src="images/class_4.fw.png">
+	 <figcaption>
+	 You will be prompted to provide a special classroom password that the instructor will provide for you.
+	 </figcaption>
+	 </figure>
+	 <br>
+	 <figure>
+	 <img src="images/class_8.fw.png">
+	 <br>
+	 <img src="images/class_5.fw.png">
+	 <br>
+	 <img src="images/claSS_7.FW.PNG">
+	 <br>
+	 <img src="images/class_6.fw.png">
+	 <figcaption>
+	 
+	 <br>
+	  <h2> Commit Your Git To Your Repo On Your Depot To The Who Now?? </h2> 
+	  
+	
+		
+  </body>
+</html>
